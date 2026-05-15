@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Previsão de Preços de Casas.iml" filepath="$PROJECT_DIR$/.idea/Previsão de Preços de Casas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/previsao-preco-casas-ml.iml" filepath="$PROJECT_DIR$/.idea/previsao-preco-casas-ml.iml" />
     </modules>
   </component>
 </project>
