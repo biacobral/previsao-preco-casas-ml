@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="d84a14ad-00f1-4b6c-9a21-ff454a2e64e1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataframe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe_future.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataframe_future.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/future_unseen_examples.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/future_unseen_examples.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kc_house_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/kc_house_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outliers_iqr.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/outliers_iqr.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outliers_zscore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/outliers_zscore.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proposta.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proposta.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipcode_demographics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/zipcode_demographics.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +42,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\beatr\Inatel\P7\C24-InteligenciaArtificial\previsao-preco-casas-ml\datasets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
